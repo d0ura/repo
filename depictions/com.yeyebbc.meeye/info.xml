@@ -55,15 +55,19 @@
 	<screenshots>
 		<screenshot>
 			<description>Screenshot 1</description>
-			<image>screenshots-1.jpg</image>
+			<image>screenshots-1.png</image>
 		</screenshot>		
 		<screenshot>
 			<description>Screenshot 2</description>
-			<image>screenshots-2.jpg</image>
+			<image>screenshots-2.png</image>
 		</screenshot>
 		<screenshot>
 			<description>Screenshot 3</description>
-			<image>screenshots-3.jpg</image>
+			<image>screenshots-3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 4</description>
+			<image>screenshots-4.png</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
