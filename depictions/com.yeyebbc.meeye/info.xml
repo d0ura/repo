@@ -1,0 +1,79 @@
+<package>
+	<id>com.yeyebbc.meeye</id>
+	<name>Meeye Icon Pack</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>SnowBoard</package>
+	</dependencies>
+	<shortDescription><![CDATA[
+		MeeGo style icons with refreshed, more modern looks.<br/> 
+		The unique adorable squircle shape crafted by original MeeGo designers.<br/> 
+		The clean and unified style crafted on vectors. 
+		]]>
+	</shortDescription>
+	<descriptionlist>
+		<description><![CDATA[
+		<b>Features</b><br/> 
+		- Update guaranteed, regular updates <br/>
+		- Unique squircle shape icons from MeeGo <br/> 
+		- High resolution icons 192x192 <br/> 
+		- Hand crafted icons from our professional designers <br/> 
+		- Send icon requests on Telegram
+		]]>
+		</description>
+		<description><![CDATA[
+		<b>Be Aware</b><br/> 
+		This is just an icon pack, you will need a Theming Engine(such as "SnowBoard") to be able to apply it to your home screen.<br/>
+		<br/>
+		How to install SnowBoard?<br/> 
+		https://kubadownload.com/news/snowboard-ios-theming
+		]]>
+		</description>
+		<description><![CDATA[
+		<b>Our Designers</b><br/> 
+		Clyde Stevens Henry, icons and resources contribution.<br/> 
+		Dospy-梦影决幻, icons and resources contribution.<br/> 
+		Jackwine, icons and resources contribution.<br/> 
+		LCOOOOD, icons and resources contribution.<br/> 
+		Eric Kwok, icons and resources contribution.<br/> 
+		Silen Chan, icons contribution, website design and development.<br/> 
+		YeyeBBC, author.
+		]]>
+		</description>
+		<description><![CDATA[
+		<b>Copy Right</b><br/> 
+		All the icons inside Meeye apk file are under Creative Commons 4.0 BY NC ND License. <br/> 
+		For details visit https://creativecommons.org/licenses/by-nc-nd/4.0/
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>screenshots-1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>screenshots-2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 3</description>
+			<image>screenshots-3.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Website</name>
+			<url>https://dribbble.com/antoniacrespoa2</url>
+			<iconclass>fa fa-dribbble</iconclass>
+		</link>
+	</links>
+</package>
