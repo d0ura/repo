@@ -1,13 +1,13 @@
 Package: com.yeyebbc.meeye
-Version: 4.4.0
+Version: 4.6.0
 Architecture: iphoneos-arm
 Maintainer: Winnie <kansei.ri@outlook.com>
 Depends: Firmware (>>10.0), com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone
-Filename: ./debs/com.yeyebbc.meeye_4.4.0_iphoneos-arm.deb
-Size: 24639832
-MD5sum: cade43860125c0fccd75b70a8d792045
-SHA1: c210aeafa672a48b7b2360e2124f8a5d462e87c4
-SHA256: d02f8192845b0379f54d94113691b2cddba27498a9ef1977f7a0c0acb85c1efa
+Filename: ./debs/com.yeyebbc.meeye_4.6.0_iphoneos-arm.deb
+Size: 25087840
+MD5sum: 77421124a327be8465bb0b41ad032ab5
+SHA1: 3e45eae30b3bfd7df0b8ad31e909a216d5498f58
+SHA256: f8945eb78d2ff838cfd32be2514e5eea8e597e67897366f4afa1058fa7e61b84
 Section: Theme
 Description: MeeGo style icons with refreshed, more modern looks.
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
