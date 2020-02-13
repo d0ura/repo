@@ -1,15 +1,17 @@
 Package: com.yeyebbc.meeye
-Version: 4.6.0
+Version: 4.6.1
 Architecture: iphoneos-arm
 Maintainer: Winnie <kansei.ri@outlook.com>
-Depends: Firmware (>>10.0), com.spark.snowboard | net.dodtweaks.ithemer | com.anemonetheming.anemone
-Filename: ./debs/com.yeyebbc.meeye_4.6.0_iphoneos-arm.deb
-Size: 25087840
-MD5sum: 77421124a327be8465bb0b41ad032ab5
-SHA1: 3e45eae30b3bfd7df0b8ad31e909a216d5498f58
-SHA256: f8945eb78d2ff838cfd32be2514e5eea8e597e67897366f4afa1058fa7e61b84
+Depends: firmware (>= 7.0), net.dodtweaks.ithemer | com.spark.snowboard | com.anemonetheming.anemone
+Filename: ./debs/com.yeyebbc.meeye_4.6.1_iphoneos-arm.deb
+Size: 52292504
+MD5sum: cf73844309f9f78ba031c2bf383396ed
+SHA1: 71c5cff9d1ceb5e42d385439f3c6d826391c1695
+SHA256: c47ca9d8d3e8cc4551ee80d12a01a413e00fb4369ed48fb0d4324d3d1962086c
 Section: Theme
+Priority: optional
 Description: MeeGo style icons with refreshed, more modern looks.
+Tag: compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
 Author: antoniacrespoa2 <lealeafdesign@gmail.com>
 Depiction: https://WinnieTheKing.github.io/repo/depictions/web/?p=com.yeyebbc.meeye
 Name: Meeye Icon Pack
